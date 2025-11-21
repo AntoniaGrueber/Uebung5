@@ -17,11 +17,12 @@ public static void main(String[] args) {
 			input %=x;
 		}
 	}
-	 System.out.println(Arrays.deepToString(einheiten));
+	 //System.out.println(Arrays.deepToString(einheiten));
 		
 			
 			
 		
 	}
 }
+
 
