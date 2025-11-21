@@ -21,9 +21,10 @@ public static void main(String[] args) {
 			x /=10;
 		}
 	}
-	System.out.println("Anzahl der digits: " + digits);
-	System.out.println("Array:" + Arrays.toString(a));
+	//System.out.println("Anzahl der digits: " + digits);
+	//System.out.println("Array:" + Arrays.toString(a));
 	}
 	
 }
+
 
