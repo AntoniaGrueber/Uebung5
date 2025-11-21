@@ -16,7 +16,8 @@ public static void main(String[] args) {
 		myArray[ende]= temp;}
 
 
-	System.out.println("Array Rückwärts:" + Arrays.toString(myArray));
+	//System.out.println("Array Rückwärts:" + Arrays.toString(myArray));
 	
 }
 }
+
